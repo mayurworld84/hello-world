@@ -1,2 +1,3 @@
 # hello-world
-used to store practice code for python
+
+this is the brach made out of the master branch so that i can edit and commit some code and have hands on over it...
